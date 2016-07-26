@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Совет студенту</string>
+    
+    <string name="tab_all_articles">Все статьи</string>
+    <string name="tab_for_applicants">Абитуриенту</string>
+    <string name="tab_after_study">Вне учебы</string>
+    <string name="tab_lectures">Лекции</string>
+    <string name="tab_on_classes">На парах</string>
+    <string name="tab_science">Наука</string>
+    <string name="tab_public_life">Общественная жизнь</string>
+    <string name="tab_for_freshmen">Первокурснику</string>
+    <string name="tab_essays">Рефераты, курсовые</string>
+    <string name="tab_self_development">Саморазвитие</string>
+    <string name="tab_study_secrets">Секреты учебы</string>
+    <string name="tab_liked">Избранное</string>
+
+    <string-array name="tabs_name">
+        <item>Все статьи</item>
+        <item>Абитуриенту</item>
+        <item>Вне учебы</item>
+        <item>Лекции</item>
+        <item>На парах</item>
+        <item>Наука</item>
+        <item>Общественная жизнь</item>
+        <item>Первокурснику</item>
+        <item>Рефераты, курсовые</item>
+        <item>Саморазвитие</item>
+        <item>Секрету учебы</item>
+        <item>Избраное</item>
+    </string-array>
+
+    <string-array name="tabs_categories">
+        <item></item>
+        <item>abiturientu</item>
+        <item>vne-uchyoby</item>
+        <item>lekcii</item>
+        <item>na-parax</item>
+        <item>nauka</item>
+        <item>obshhestvennaya-zhizn</item>
+        <item>pervokursniku</item>
+        <item>referaty-kursovye</item>
+        <item>samorazvitie</item>
+        <item>sekrety-uchyoby</item>
+        <item></item>
+    </string-array>
+
+</resources>
